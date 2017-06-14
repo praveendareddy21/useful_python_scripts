@@ -2,7 +2,6 @@
 
 """
 1. How to set a bit in the number ‘num’ :
-
 First we left shift ‘1’ to n position via (1<<n)
 Then, use ‘OR’ operator to set bit at that position.
 ’OR’ operator is used because it will set the bit even if the bit is unset previously in binary representation of number ‘num’.
